@@ -1,5 +1,5 @@
 <template>
-    <div>
+	<div>
 		<form class="quiz__form">
 			<input 
 				class="quiz__title"
